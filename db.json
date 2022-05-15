@@ -174,7 +174,10 @@
         "golpes":77,
         "rebanadas":10,
         "marca":"bimbo"
-    }
+    },
+  "profile": {
+    "name": "typicode"
+  }
 
 }
 
