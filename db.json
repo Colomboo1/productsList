@@ -1,4 +1,6 @@
- [
+{
+  "posts": [
+    [
     {
         "id": 1,
         "nombre":"pan de Mesa Lactal 335g",
@@ -173,4 +175,9 @@
         "rebanadas":10,
         "marca":"bimbo"
     }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
